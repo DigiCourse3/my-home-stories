@@ -20,3 +20,24 @@
  .mobile-toggle{flex:0 0 auto;margin-left:10px}
  .footer .footer-brand{width:min(100%,300px)}
 }
+
+
+/* Header logo visibility fix: larger on desktop, balanced with navigation */
+.header{gap:clamp(12px,2vw,30px)}
+.header .brand{flex:0 1 clamp(280px,24vw,360px);width:clamp(280px,24vw,360px);max-width:360px;min-width:0}
+.header .brand-logo{width:100%;max-width:360px;height:auto;max-height:none;object-fit:contain;object-position:left center}
+.nav{flex:0 1 auto;min-width:0;gap:clamp(9px,1.25vw,20px)}
+@media(max-width:1150px){
+ .header .brand{flex-basis:250px;width:250px;max-width:250px}
+ .header .brand-logo{max-width:250px}
+}
+@media(max-width:1050px){
+ .header{gap:12px}
+ .header .brand{flex:0 1 280px;width:280px;max-width:280px}
+ .header .brand-logo{max-width:280px}
+}
+@media(max-width:650px){
+ .header{gap:8px}
+ .header .brand{flex:0 1 min(72vw,270px);width:min(72vw,270px);max-width:min(72vw,270px)}
+ .header .brand-logo{max-width:100%}
+}
