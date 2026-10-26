@@ -29,7 +29,7 @@ if($("#projectGrid")){
   bind("#projectQuery","input",renderProjects);bind("#projectKind","change",renderProjects);bind("#projectArea","change",renderProjects);
   bind("#resetFilters","click",()=>{$("#projectQuery").value="";$("#projectKind").value=document.body.dataset.pageKind||"all";$("#projectArea").value="";renderProjects()});
   bind("#propertySearch","submit",e=>{e.preventDefault();$("#projectKind").value=$("#propertyType").value;$("#projectArea").value=$("#propertyLocation").value;renderProjects();$("#all-projects").scrollIntoView({behavior:"smooth"})});
-  const params=new URLSearchParams(location.search);if(params.get("type"))$("#projectKind").value=params.get("type");if(params.get("location"))$("#projectArea").value=params.get("location");
+  const params=new URLSearchParams(location.search);$("#projectKind").value=params.get("type")||document.body.dataset.pageKind||"all";if(params.get("location"))$("#projectArea").value=params.get("location");
   initProjects();
 }
 bind("#modalClose","click",closeModal);bind("#projectModal","click",e=>{if(e.target===$("#projectModal"))closeModal()});
