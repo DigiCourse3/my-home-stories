@@ -1,0 +1,444 @@
+[
+  {
+    "slug": "anmol-terrasa",
+    "name": "Anmol Terrasa",
+    "builder": "Anmol",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Miyapur. Verify official project details, current construction phase and included amenities.",
+    "amenities": [
+      "Confirm community amenities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "pavani-starlit",
+    "name": "Pavani Starlit",
+    "builder": "Pavani Group",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Miyapur. Confirm current construction progress and approved specifications with the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness facilities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "candeur-40",
+    "name": "Candeur 40",
+    "builder": "Candeur",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential apartment project listing in the Miyapur area. Confirm current phase, configurations and amenities with Candeur.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "tridasa-rise",
+    "name": "Tridasa Rise",
+    "builder": "Tridasa",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Verify the current project status, configuration and official amenity list before publication.",
+    "amenities": [
+      "Confirm clubhouse and recreation",
+      "Confirm fitness facilities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "33west",
+    "name": "33West",
+    "builder": "Sujay / 33West",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Nallagandla area. Confirm official project identity, current construction stage and specifications.",
+    "amenities": [
+      "Confirm community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sujay-global-elara",
+    "name": "Sujay Global Elara",
+    "builder": "Sujay Global",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Verify current phase, project documents and amenity specifications with the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness facilities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "aakriti-jiva",
+    "name": "Aakriti Jiva",
+    "builder": "Aakriti",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Confirm current construction status, unit plans and amenity schedule from current project materials.",
+    "amenities": [
+      "Confirm clubhouse and recreation",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "trishala-saffron-360",
+    "name": "Trishala Saffron 360",
+    "builder": "Trishala",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Verify exact project details and current construction status before publishing.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ramky-one-orbit",
+    "name": "Ramky One Orbit",
+    "builder": "Ramky Estates",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Confirm current construction stage, configurations and facilities with Ramky Estates.",
+    "amenities": [
+      "Confirm clubhouse and community spaces",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "dsr-park-ridge",
+    "name": "DSR Park Ridge",
+    "builder": "DSR Group",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential project listing in Nallagandla. Confirm the current project phase and approved amenities against the developer's latest material.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ns-vihar-villas",
+    "name": "NS Vihar Villas",
+    "builder": "NS",
+    "location": "Nallagandla",
+    "kind": "Villa",
+    "description": "Villa project listing for Nallagandla. Verify the exact location, villa configuration, construction status and amenities with the developer.",
+    "amenities": [
+      "Confirm villa plot and built-up area",
+      "Confirm private outdoor spaces",
+      "Confirm community amenities",
+      "Verify approvals and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "rajapushpa-provincia",
+    "name": "Rajapushpa Provincia",
+    "builder": "Rajapushpa Properties",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Large residential community in Narsingi. Confirm current construction status, approved configurations and amenity schedule with the developer.",
+    "amenities": [
+      "Clubhouse and shared facilities (verify current scope)",
+      "Fitness and recreation (verify)",
+      "Landscaped areas (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ananda-the-drizzle",
+    "name": "Ananda The Drizzle",
+    "builder": "Ananda",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential project listing in Narsingi. Verify the current project stage, exact configurations and official amenity details.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "lansum-el-dorado",
+    "name": "Lansum El Dorado",
+    "builder": "Lansum",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential project listing in Narsingi. Confirm construction stage, unit plans and amenities with the developer.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vasavi-atlantis",
+    "name": "Vasavi Atlantis",
+    "builder": "Vasavi Group",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential high-rise project listing in Narsingi. Confirm current construction stage and the latest official project specification.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "the-line-narsingi",
+    "name": "The Line",
+    "builder": "The Line",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential project listing in Narsingi. Confirm official project identity, exact address and construction status before publishing detailed claims.",
+    "amenities": [
+      "Confirm official amenity schedule",
+      "Confirm recreation and fitness facilities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vamsiram-newmark",
+    "name": "Vamsiram Newmark",
+    "builder": "Vamsiram",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential project listing for Narsingi. Verify construction progress, configurations and amenities from current developer documents.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness facilities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "bvr-cinder-glow",
+    "name": "BVR Cinder Glow",
+    "builder": "BVR",
+    "location": "Manchirevula",
+    "kind": "Apartment",
+    "description": "Residential project listing in Manchirevula. Confirm exact project details, current construction stage and amenities with the developer.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "lansum-el-palacio",
+    "name": "Lansum El Palacio",
+    "builder": "Lansum",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential project listing in Puppalaguda. Confirm current construction stage, approved configurations and amenity schedule with Lansum.",
+    "amenities": [
+      "Confirm clubhouse and community spaces",
+      "Confirm fitness and recreation",
+      "Confirm landscaped areas",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "eapl-legacy",
+    "name": "EAPL Legacy",
+    "builder": "EAPL",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential project listing in Puppalaguda. Verify the exact project identity, construction status and current specifications with the developer.",
+    "amenities": [
+      "Confirm official amenity schedule",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vue-residences",
+    "name": "The Vue Residences",
+    "builder": "The Vue",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential project listing in Puppalaguda. Confirm current project status, unit plans and amenities with the project team.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "western-springs",
+    "name": "Western Springs",
+    "builder": "Western Springs",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Puppalaguda area. Verify current construction progress and approved project specifications.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "srias-iwa-puppalaguda",
+    "name": "Srias IWA",
+    "builder": "Srias",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential project listing for the western Hyderabad corridor. Confirm the exact location, current construction status and approved amenities.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vajra-west-city-osman-nagar",
+    "name": "Vajra West City",
+    "builder": "Vajra",
+    "location": "Osman Nagar",
+    "kind": "Apartment",
+    "description": "Residential project listing in Osman Nagar. Verify current construction stage, unit configurations and amenities with the developer.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sky-49-ananda-prosper",
+    "name": "The Sky 49 by Ananda Prosper",
+    "builder": "Ananda Prosper",
+    "location": "Osman Nagar",
+    "kind": "Apartment",
+    "description": "Residential high-rise project listing for Osman Nagar. Confirm exact project identity, current phase and amenity schedule from the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "radhey-skyverse-aurora",
+    "name": "Radhey Skyverse Aurora",
+    "builder": "Radhey",
+    "location": "Osman Nagar",
+    "kind": "Apartment",
+    "description": "Residential project listing in Osman Nagar. Verify current construction stage, configurations and official amenities before publishing.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  }
+]
