@@ -38,7 +38,9 @@ async function loadProjectCatalogue(){
   try{
     const batches=await Promise.all([
       fetch("data/projects-01.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 1 unavailable");return r.json()}),
-      fetch("data/projects-02.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 2 unavailable");return r.json()})
+      fetch("data/projects-02.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 2 unavailable");return r.json()}),
+      fetch("data/projects-03.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 3 unavailable");return r.json()}),
+      fetch("data/projects-04.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 4 unavailable");return r.json()})
     ]);
     const combined=[...batches.flat(),...projects];
     const bySlug=new Map();
