@@ -1,0 +1,505 @@
+[
+  {
+    "slug": "vaibhavi-vihanga",
+    "name": "Vaibhavi Vihanga",
+    "builder": "Vaibhavi",
+    "location": "Narsingi",
+    "kind": "Apartment",
+    "description": "Residential project listing supplied by Koka Realty. Confirm the exact address, current phase and official specifications.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify clubhouse and fitness facilities",
+      "Confirm security and parking details"
+    ],
+    "image": "https://kokarealty.com/vaibhavi-vihanga/",
+    "source": "https://kokarealty.com/vaibhavi-vihanga/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "hallmark-altus",
+    "name": "Hallmark Altus",
+    "builder": "Hallmark",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Apartment project in the Kondapur market. Check the developer's current materials for unit details, status and amenities.",
+    "amenities": [
+      "Community and leisure facilities (verify)",
+      "Fitness facilities (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://hallmarkbuilders.in/",
+    "source": "https://hallmarkbuilders.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "radhey-villas",
+    "name": "Radhey Villas",
+    "builder": "Radhey",
+    "location": "Hyderabad",
+    "kind": "Villa",
+    "description": "Villa enquiry category for Radhey's Hyderabad portfolio. Confirm the exact project name and locality with the builder before publishing availability.",
+    "amenities": [
+      "Villa layout and private outdoor area (verify)",
+      "Community facilities (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://radheyconstructions.com/",
+    "source": "https://radheyconstructions.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vertex-panache",
+    "name": "Vertex Panache",
+    "builder": "Vertex",
+    "location": "Nallagandla",
+    "kind": "Apartment",
+    "description": "Residential apartment project in the Nallagandla area, relevant to buyers comparing the west Hyderabad corridor.",
+    "amenities": [
+      "Community spaces (verify)",
+      "Fitness and recreation facilities (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://vertexhomes.com/",
+    "source": "https://vertexhomes.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "auro-the-regent",
+    "name": "Auro The Regent",
+    "builder": "Auro",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Residential project in Kondapur. Confirm the developer's current details for configuration, approvals and included facilities.",
+    "amenities": [
+      "Community facilities (verify)",
+      "Recreation areas (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://aurorealty.com/",
+    "source": "https://aurorealty.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "godrej-madison-avenue",
+    "name": "Godrej Madison Avenue",
+    "builder": "Godrej Properties",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential development in Kokapet. Consult the official Godrej project listing for approved plans, status and amenity details.",
+    "amenities": [
+      "Club and recreation facilities (verify)",
+      "Fitness areas (verify)",
+      "Landscaped spaces (verify)"
+    ],
+    "image": "https://www.godrejproperties.com/hyderabad",
+    "source": "https://www.godrejproperties.com/hyderabad",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ramky-one-astra",
+    "name": "Ramky One Astra",
+    "builder": "Ramky",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Apartment project in the Kokapet market. Confirm current availability and official specifications with Ramky Estates.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Fitness and recreation (verify)",
+      "Landscaped community areas (verify)"
+    ],
+    "image": "https://www.ramkyestates.com/",
+    "source": "https://www.ramkyestates.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ira-urban",
+    "name": "IRA Urban",
+    "builder": "IRA",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential option for buyers exploring the Kollur corridor. Confirm exact project naming and live specifications with IRA Realty.",
+    "amenities": [
+      "Community amenities (verify)",
+      "Fitness and recreation (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://irarealty.in/",
+    "source": "https://irarealty.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ananda-homes",
+    "name": "Ananda Homes",
+    "builder": "Ananda",
+    "location": "Hyderabad",
+    "kind": "Villa",
+    "description": "Villa-category enquiry listing for the Hyderabad market. Verify the specific project's name, address and current status before shortlisting.",
+    "amenities": [
+      "Private outdoor space (verify)",
+      "Community amenities (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://anandahomes.in/",
+    "source": "https://anandahomes.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "nisarga-villas-kollur",
+    "name": "Nisarga Villas",
+    "builder": "SRSM Group",
+    "location": "Kollur",
+    "kind": "Villa",
+    "description": "A 17+ acre villa township in Kollur on the ORR service road, according to the developer. The official project source describes 4 BHK G+2 homes, two clubhouses and a target completion in 2029; confirm current status and RERA disclosures.",
+    "amenities": [
+      "Two clubhouses (developer-stated)",
+      "4 BHK G+2 villa format (developer-stated)",
+      "Home theatre listed in project overview",
+      "17+ acre township (developer-stated)"
+    ],
+    "image": "https://srsmbuilders.com/projects",
+    "source": "https://srsmbuilders.com/projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "eipl-riveredge",
+    "name": "EIPL RiverEdge",
+    "builder": "EIPL",
+    "location": "Manchirevula",
+    "kind": "Villa",
+    "description": "Villa-style project listing in the Manchirevula area. Confirm current project status, plans and amenities directly with EIPL.",
+    "amenities": [
+      "Villa layout and outdoor areas (verify)",
+      "Community recreation (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://eiplgroup.com/",
+    "source": "https://eiplgroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "janapriya-upscale-first-light",
+    "name": "Janapriya Upscale First Light",
+    "builder": "Janapriya Upscale",
+    "location": "Bachupally",
+    "kind": "Apartment",
+    "description": "A residential project in Bachupally with 3 BHK homes. The developer's project page describes large balconies, landscaped surroundings and a community-focused layout.",
+    "amenities": [
+      "Swimming pool (developer-listed)",
+      "Landscaped garden",
+      "Community hall",
+      "Children's play area",
+      "Lift and power backup"
+    ],
+    "image": "https://assets.nobroker.in/media/building/8aa9b3669c028e02019c02ffc9101f48/images/8aa9b3669c028e02019c02ffc9101f48_project_image_PyPSrXyXHy1769589841259_38686_iris_medium.jpg",
+    "source": "https://janapriyaupscale.com/project-first-light-bachupally/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "asbl-spectra",
+    "name": "ASBL Spectra",
+    "builder": "ASBL",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential towers in the Financial District with 3 BHK apartment configurations. Current construction and inventory status must be checked before listing as under construction.",
+    "amenities": [
+      "Clubhouse and shared amenity areas",
+      "Swimming pool and fitness facilities",
+      "Children's play area",
+      "Jogging and cycling tracks"
+    ],
+    "image": "https://media.asbl.in/Spectra/Meta_Data/Location.jpg",
+    "source": "https://asbl.in/spectra/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "r-one-diamond-towers",
+    "name": "R One Diamond Towers",
+    "builder": "R One",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "High-rise residential project listing for the Financial District area. Confirm current configuration, construction stage and approved specifications with the developer.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm parking and security",
+      "Request current approved specifications"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "the-olympus",
+    "name": "The Olympus",
+    "builder": "Sumadhura",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential twin-tower development in Nanakramguda, with 3 and 3.5 BHK configurations described in published project materials. Verify current status before treating it as under construction.",
+    "amenities": [
+      "Clubhouse",
+      "Gymnasium and swimming pool",
+      "Yoga area and squash court",
+      "Library and indoor games",
+      "Children's play area"
+    ],
+    "image": "https://hyderabad.nklusive.in/uploads/product/mb-1644479683.jpg",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "myscape-songs-of-the-sun",
+    "name": "Myscape Songs of the Sun",
+    "builder": "Myscape",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Financial District market. Check current status, unit plans and available amenities against current builder documentation.",
+    "amenities": [
+      "Confirm clubhouse and leisure spaces",
+      "Confirm fitness facilities",
+      "Confirm landscaping and parking",
+      "Request current project specification"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "lumbini-elysee",
+    "name": "Lumbini Elysee",
+    "builder": "Lumbini Constructions",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Premium apartment project associated with the Financial District area. Verify live construction progress and current approved specifications.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped areas",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "pavani-mirai",
+    "name": "Pavani Mirai",
+    "builder": "Pavani Group",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential high-rise project listing for the Financial District area. Confirm the latest project brochure, construction stage and unit details.",
+    "amenities": [
+      "Confirm clubhouse and community spaces",
+      "Confirm fitness and sports facilities",
+      "Confirm children's play area",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "raghava-nova",
+    "name": "Raghava Nova",
+    "builder": "Raghava",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Nova by Raghava is a residential project in Hyderabad's Financial District. Check current project material for plans, amenities and construction status.",
+    "amenities": [
+      "Project gallery available from the developer",
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness and recreation facilities",
+      "Confirm security and parking"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fnova%2Fnova_web_1000x700_1.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "raghava-wave",
+    "name": "WAVE by Raghava",
+    "builder": "Raghava",
+    "location": "Tellapur",
+    "kind": "Apartment",
+    "description": "WAVE by Raghava is a residential development in Tellapur with 3 BHK residences across four towers, as described in the developer's project gallery. Confirm current plans and availability with the developer.",
+    "amenities": [
+      "Four 36-storey towers (developer-stated)",
+      "3 BHK residences (developer-stated)",
+      "Sky Bridge feature (developer-stated)",
+      "Project images and amenities shown in the official gallery"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fwave_1000x7000_01.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "raghava-cinq",
+    "name": "CINQ by Raghava",
+    "builder": "Raghava",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "CINQ by Raghava is a residential high-rise development in Hyderabad's Financial District. Check the official project gallery for current design imagery and verify specifications with the developer.",
+    "amenities": [
+      "Five towers and 61 floors (developer-stated)",
+      "4 BHK residences (developer-stated)",
+      "Lifestyle and wellness facilities (verify current brochure)",
+      "Official project gallery available"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fcinq_1000x7000_01.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "linq-by-raghava",
+    "name": "Linq by Raghava",
+    "builder": "Raghava",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "LINQ by Raghava is a residential development near Neopolis, Kokapet. Use the developer's gallery for project visuals and confirm the current configuration and status directly.",
+    "amenities": [
+      "Official architectural and lifestyle gallery",
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped spaces and security"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fcinq_1000x7000_01.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "aurum-sree-varaaha",
+    "name": "Aurum by Sree Varaaha",
+    "builder": "Sree Varaaha",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Financial District area. Project configuration, construction stage and amenity specifications should be confirmed from current records.",
+    "amenities": [
+      "Confirm clubhouse and recreation",
+      "Confirm fitness facilities",
+      "Confirm parking and security",
+      "Request current project brochure"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "candeur-skyline",
+    "name": "Candeur Skyline",
+    "builder": "Candeur",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Residential project listing for buyers exploring the western Hyderabad corridor. Verify the precise project location and current phase with the developer.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and sports facilities",
+      "Confirm landscaped open spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "amaris-kurra-infra",
+    "name": "Amaris by Kurra Infra",
+    "builder": "Kurra Infra",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "Luxury residential project listing in the Financial District market. Verify current construction status, configuration and amenity list with the developer.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaping and parking",
+      "Request current approved plans"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "cascades-neopolis",
+    "name": "The Cascades Neopolis",
+    "builder": "GHR Infra",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "A luxury residential development in Neopolis, Kokapet, described on its project website as five 63-storey towers across 7.34 acres with 3 and 4 BHK residences. Published plans describe layered amenities including a podium, clubhouse, tower lounges, sky lounge and sky garden. Verify current specifications and status before publishing.",
+    "amenities": [
+      "Five residential towers (project website)",
+      "3 and 4 BHK residences (project website)",
+      "Podium landscape and lagoon-style pool (project website)",
+      "Clubhouse, tower lounges and sky garden (project website)",
+      "Verify current approvals, status and availability"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ira-moonglade",
+    "name": "IRA MoonGlade",
+    "builder": "IRA Realty",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Kokapet area. Confirm current construction stage and official project specifications before shortlisting.",
+    "amenities": [
+      "Confirm community and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "cybercity-westbrook",
+    "name": "Cybercity Westbrook",
+    "builder": "Cybercity Builders",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential high-rise community in Kokapet. The developer has published construction-progress imagery; check the latest updates for current phase and amenities.",
+    "amenities": [
+      "Gated community amenities (verify latest brochure)",
+      "Confirm clubhouse and fitness facilities",
+      "Confirm landscaped open spaces",
+      "Confirm parking and security"
+    ],
+    "image": "https://www.westbrook.in/enquiry/assets/img/construction/2024/july/DJI_0375.jpg",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "neo-towers",
+    "name": "Neo Towers",
+    "builder": "Neo",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Project listing for the Kokapet residential market. Confirm the exact registered project name, developer and current status before publishing detailed specifications.",
+    "amenities": [
+      "Confirm official amenity list",
+      "Confirm recreation and fitness facilities",
+      "Confirm parking and security",
+      "Verify approvals and construction stage"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "rajapushpa-pristinia",
+    "name": "Rajapushpa Pristinia",
+    "builder": "Rajapushpa Properties",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project in Kokapet with multiple high-rise towers. Confirm the current phase, configurations and developer's latest progress report.",
+    "amenities": [
+      "Clubhouse and community facilities (verify)",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "https://rajapushpa.in/projects/residential/pristinia-assets/images/project/mar-2026/6-1.webp",
+    "source": "",
+    "status": "Under Construction"
+  }
+]
