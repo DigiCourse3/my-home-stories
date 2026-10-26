@@ -1,0 +1,485 @@
+[
+  {
+    "slug": "candeur-lakescape",
+    "name": "Candeur Lakescape",
+    "builder": "Candeur",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "A 9.11-acre residential community in Kondapur with seven towers, 47 floors and a stated 1,00,000 sq. ft. clubhouse. The official source lists 2, 2.5, 3 and 3.5 BHK residences and lake views.",
+    "amenities": [
+      "1,00,000 sq. ft. clubhouse (official project information)",
+      "Lake views and landscaped spaces",
+      "Yoga lawn and hammock park",
+      "Outdoor sports facilities shown in project gallery"
+    ],
+    "image": "https://www.candeur.in/projects/candeur-lakescape",
+    "source": "https://www.candeur.in/projects/candeur-lakescape",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "candeur-twins",
+    "name": "Candeur Twins",
+    "builder": "Candeur",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential apartment project to compare for connectivity around Miyapur and the wider north-west corridor.",
+    "amenities": [
+      "Community facilities (confirm current specification)",
+      "Recreation spaces (confirm current specification)",
+      "Parking and security (confirm with builder)"
+    ],
+    "image": "https://candeur.in/",
+    "source": "https://candeur.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "candeur-crescent",
+    "name": "Candeur Crescent",
+    "builder": "Candeur",
+    "location": "Serilingampally",
+    "kind": "Apartment",
+    "description": "Apartment community in the western Hyderabad market. Check the official project page for current configuration, approvals and possession details.",
+    "amenities": [
+      "Community and leisure facilities (verify)",
+      "Landscaped areas (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://candeur.in/",
+    "source": "https://candeur.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "raghava-iris",
+    "name": "IRIS by Raghava",
+    "builder": "Raghava",
+    "location": "Raidurgam",
+    "kind": "Apartment",
+    "description": "A residential development in Raidurgam with three 45-storey towers and a stated 52,000 sq. ft. clubhouse. The developer describes 4 and 6 BHK residences and a connected Sky Island.",
+    "amenities": [
+      "52,000 sq. ft. clubhouse (developer-stated)",
+      "Sky Island connecting towers",
+      "Infinity pool, gym and jogging track (developer-stated)",
+      "Co-working, mini theatre and indoor games (developer-stated)"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Firis_1000x7000_01.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "raghava-sage",
+    "name": "Raghava SAGE",
+    "builder": "Raghava",
+    "location": "Kollur",
+    "kind": "Villa",
+    "description": "Villa-style living option in the Kollur growth corridor. Confirm whether the current phase, configuration and availability match your needs.",
+    "amenities": [
+      "Private outdoor space (verify)",
+      "Community recreation (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fsage_1000x7000_01.webp&w=640&q=75",
+    "source": "https://raghava.world/Projects",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "team4-aria",
+    "name": "Team4 ARIA",
+    "builder": "Team4",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential apartment project for buyers exploring the Miyapur area and its road connectivity to western Hyderabad.",
+    "amenities": [
+      "Community facilities (verify)",
+      "Recreation spaces (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://team4life.com/",
+    "source": "https://team4life.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "team4-opus-one",
+    "name": "Team4 Opus One",
+    "builder": "Team4",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "A residential option associated with the Kokapet market. Review the developer's latest project material before relying on specifications.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Fitness and leisure areas (verify)",
+      "Landscaped open space (verify)"
+    ],
+    "image": "https://team4life.com/",
+    "source": "https://team4life.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "lansum-encanto",
+    "name": "Lansum Encanto",
+    "builder": "Lansum",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Apartment development in the Puppalaguda area, within reach of the western Hyderabad employment corridor.",
+    "amenities": [
+      "Community and fitness facilities (verify)",
+      "Children's play area (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://lansum.com/",
+    "source": "https://lansum.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "lansum-elena",
+    "name": "Lansum Elena",
+    "builder": "Lansum",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project in the Kokapet market. Confirm current phase, plans, RERA details and amenities with the developer.",
+    "amenities": [
+      "Recreation facilities (verify)",
+      "Landscaped areas (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://lansum.com/",
+    "source": "https://lansum.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "asbl-broadway",
+    "name": "ASBL Broadway",
+    "builder": "ASBL",
+    "location": "Financial District",
+    "kind": "Apartment",
+    "description": "A Financial District residential community advertised with three G+50 towers, 3 BHK homes, more than 75% open space and a multi-level clubhouse. Verify current specifications and status with the developer.",
+    "amenities": [
+      "About 1,07,000+ sq. ft. indoor amenities (developer-stated)",
+      "Urban corridor amenities (developer-stated)",
+      "Kids’ play area and guest rooms shown in project materials",
+      "Access to ORR and western Hyderabad employment hubs"
+    ],
+    "image": "https://cdn.asbl.in/Broadway/Meta_Data/q-30/project-rendrer.webp",
+    "source": "https://asbl.in/broadway/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "asbl-spire",
+    "name": "ASBL Spire",
+    "builder": "ASBL",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential high-rise project in Kokapet. Check the official ASBL project information for approved plans and current specifications.",
+    "amenities": [
+      "Club and fitness spaces (verify)",
+      "Recreation facilities (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://asbl.in/spire/",
+    "source": "https://asbl.in/spire/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sumadhura-palais-royale",
+    "name": "Sumadhura Palais Royale",
+    "builder": "Sumadhura",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Large-format residential development in the Kokapet area for buyers comparing premium apartment communities.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Sports and fitness areas (verify)",
+      "Landscaped open spaces (verify)"
+    ],
+    "image": "https://www.sumadhuragroup.com/",
+    "source": "https://www.sumadhuragroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ghr-titania",
+    "name": "GHR Titania",
+    "builder": "GHR",
+    "location": "Tellapur",
+    "kind": "Apartment",
+    "description": "Apartment community in the Tellapur growth corridor. Verify the current project phase and exact amenities with the developer.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Fitness and recreation (verify)",
+      "Community open spaces (verify)"
+    ],
+    "image": "https://ghrinfra.com/",
+    "source": "https://ghrinfra.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ghr-callisto",
+    "name": "GHR Callisto",
+    "builder": "GHR",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential project associated with the Kollur corridor, suitable for comparing west-side access and community features.",
+    "amenities": [
+      "Community facilities (verify)",
+      "Landscaped areas (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://ghrinfra.com/",
+    "source": "https://ghrinfra.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "prestige-clairemont",
+    "name": "Prestige Clairemont",
+    "builder": "Prestige",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential apartment project in Kokapet. Review official Prestige disclosures for unit plans, project status and amenities.",
+    "amenities": [
+      "Club and leisure facilities (verify)",
+      "Fitness spaces (verify)",
+      "Landscaped community areas (verify)"
+    ],
+    "image": "https://www.prestigeconstructions.com/",
+    "source": "https://www.prestigeconstructions.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "prestige-beverly-hills",
+    "name": "Prestige Beverly Hills",
+    "builder": "Prestige",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Apartment community in the Kokapet area for buyers comparing layouts, neighbourhood access and shared facilities.",
+    "amenities": [
+      "Community and recreation spaces (verify)",
+      "Fitness facilities (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://www.prestigeconstructions.com/",
+    "source": "https://www.prestigeconstructions.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "neo-yula-globus",
+    "name": "NEO by Yula Globus",
+    "builder": "Yula Globus",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Project enquiry listing supplied by My Home Stories. Check the linked project page for the precise locality, approved configuration and live specifications.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify clubhouse and recreation details",
+      "Confirm parking and security details"
+    ],
+    "image": "https://kokarealty.com/neo-by-yula-globus/",
+    "source": "https://kokarealty.com/neo-by-yula-globus/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "rise-with-9",
+    "name": "Rise With 9",
+    "builder": "Rise With 9",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Project listing from the supplied Koka Realty reference. Please confirm the exact location and current inventory from the project source.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify recreation facilities",
+      "Confirm approvals and possession details"
+    ],
+    "image": "https://kokarealty.com/rise-with-9/",
+    "source": "https://kokarealty.com/rise-with-9/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "nsl-nakshatra",
+    "name": "NSL Nakshatra",
+    "builder": "NSL",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Residential project from the supplied reference link. Review the source page for the project address, plans and current disclosures.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify community amenities",
+      "Confirm legal and possession details"
+    ],
+    "image": "https://kokarealty.com/nsl-nakshatra/",
+    "source": "https://kokarealty.com/nsl-nakshatra/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "eipl-cornerstone",
+    "name": "EIPL Cornerstone",
+    "builder": "EIPL",
+    "location": "Puppalaguda",
+    "kind": "Apartment",
+    "description": "Residential apartment project in Puppalaguda, suitable for comparing access to the western business districts.",
+    "amenities": [
+      "Community facilities (verify)",
+      "Fitness and leisure facilities (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://eiplgroup.com/",
+    "source": "https://eiplgroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "eipl-la-paloma",
+    "name": "EIPL La Paloma",
+    "builder": "EIPL",
+    "location": "Mokila",
+    "kind": "Villa",
+    "description": "Villa community in the Mokila area for people seeking independent-home layouts and a suburban setting. Verify phase and availability.",
+    "amenities": [
+      "Private villa outdoor areas (verify)",
+      "Community facilities (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://eiplgroup.com/",
+    "source": "https://eiplgroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "dsr-valar",
+    "name": "DSR Valar",
+    "builder": "DSR",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project associated with the Kokapet market. Confirm the latest official project specifications before shortlisting.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Fitness and recreation spaces (verify)",
+      "Landscaping and security (verify)"
+    ],
+    "image": "https://dsrinfra.com/",
+    "source": "https://dsrinfra.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "svadha-mackenna",
+    "name": "Svadha Mackenna's",
+    "builder": "Svadha",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential community in the Kollur area. Use the official source to verify the current phase, unit plans and amenities.",
+    "amenities": [
+      "Community spaces (verify)",
+      "Fitness and leisure facilities (verify)",
+      "Security and parking (verify)"
+    ],
+    "image": "https://svadha.com/",
+    "source": "https://svadha.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "urbanrise-oncloud-33",
+    "name": "Urbanrise Oncloud 33",
+    "builder": "Urbanrise",
+    "location": "Bachupally",
+    "kind": "Apartment",
+    "description": "Apartment community in Bachupally for buyers exploring north-west Hyderabad. Verify current availability and project disclosures.",
+    "amenities": [
+      "Clubhouse and leisure facilities (verify)",
+      "Fitness and recreation (verify)",
+      "Landscaped areas (verify)"
+    ],
+    "image": "https://www.urbanrise.in/",
+    "source": "https://www.urbanrise.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "urbanrise-sky-habitat",
+    "name": "Urbanrise Sky Habitat",
+    "builder": "Urbanrise",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Miyapur market. Confirm official project naming, address and specifications before publishing final sales details.",
+    "amenities": [
+      "Community facilities (verify)",
+      "Fitness and recreation (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "https://www.urbanrise.in/",
+    "source": "https://www.urbanrise.in/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "srias-tiara",
+    "name": "Srias Tiara",
+    "builder": "Srias",
+    "location": "Bachupally",
+    "kind": "Apartment",
+    "description": "Apartment community in Bachupally, suited to comparing access to north-west Hyderabad neighbourhoods and everyday amenities.",
+    "amenities": [
+      "Clubhouse (verify)",
+      "Sports and fitness facilities (verify)",
+      "Landscaped open areas (verify)"
+    ],
+    "image": "https://srias.com/",
+    "source": "https://srias.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "srias-iwa",
+    "name": "Srias iWA",
+    "builder": "Srias",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Residential project listing. Confirm the exact Hyderabad locality, current project status and approved specifications from the builder.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify community facilities",
+      "Confirm approvals and possession"
+    ],
+    "image": "https://srias.com/",
+    "source": "https://srias.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "anvita-ivana",
+    "name": "Anvita Ivana",
+    "builder": "Anvita",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential development in Kollur, within the western Hyderabad expansion corridor. Check the official project source for updated plans and amenities.",
+    "amenities": [
+      "Clubhouse and community spaces (verify)",
+      "Fitness and recreation facilities (verify)",
+      "Landscaped open spaces (verify)"
+    ],
+    "image": "https://anvitagroup.com/",
+    "source": "https://anvitagroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "anvita-parkside",
+    "name": "Anvita Parkside",
+    "builder": "Anvita",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Project listing from Anvita's Hyderabad portfolio. Verify the exact locality and project details with the developer before relying on this listing.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify green spaces and recreation",
+      "Confirm current phase and approvals"
+    ],
+    "image": "https://anvitagroup.com/",
+    "source": "https://anvitagroup.com/",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vajra-west-city",
+    "name": "Vajra West City",
+    "builder": "Vajra",
+    "location": "Hyderabad",
+    "kind": "Apartment",
+    "description": "Project enquiry listing supplied by Koka Realty. Use the official project page to confirm exact location, configuration and current amenities.",
+    "amenities": [
+      "Refer to official project specification",
+      "Verify recreation and community facilities",
+      "Confirm approvals and possession"
+    ],
+    "image": "https://kokarealty.com/vajra-west-city/",
+    "source": "https://kokarealty.com/vajra-west-city/",
+    "status": "Under Construction"
+  }
+]
