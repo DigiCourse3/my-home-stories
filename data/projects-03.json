@@ -1,0 +1,514 @@
+[
+  {
+    "slug": "avira-avr",
+    "name": "AVIRA by AVR",
+    "builder": "AVR",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kokapet. Confirm official project address, configuration, construction status and included amenities.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaping and parking",
+      "Request current approved specification"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "brigade-barcelona",
+    "name": "Brigade Barcelona",
+    "builder": "Brigade Group",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Kokapet market. Confirm the official project name, current phase and amenities with the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped areas",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "one-by-msn",
+    "name": "One by MSN",
+    "builder": "MSN Realty",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Ultra-premium residential project in the Neopolis/Kokapet precinct. Verify the latest project details and construction status with the developer.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped open spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ambience-beaumonde",
+    "name": "Ambience Beaumonde",
+    "builder": "Ambience",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for Kokapet. Verify the developer, exact project location and latest specifications before publishing.",
+    "amenities": [
+      "Confirm official amenity schedule",
+      "Confirm clubhouse and fitness facilities",
+      "Confirm security and parking",
+      "Verify current construction stage"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "godrej-epoque",
+    "name": "Godrej Epoque",
+    "builder": "Godrej Properties",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Kokapet market. Confirm current project identity, construction status, floor plans and amenities through current builder material.",
+    "amenities": [
+      "Confirm clubhouse and recreation",
+      "Confirm fitness facilities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "brigade-gateway",
+    "name": "Brigade Gateway",
+    "builder": "Brigade Group",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Mixed-use residential destination in the Neopolis precinct. Confirm the latest phase and project specifications directly from current public project materials.",
+    "amenities": [
+      "Confirm resident clubhouse and leisure spaces",
+      "Confirm sports and fitness facilities",
+      "Confirm landscaping and open areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sri-the-marquise",
+    "name": "Sri The Marquise",
+    "builder": "Sri",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kokapet. Confirm the developer identity, current construction phase and project specifications before publishing.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "linq-by-raghava",
+    "name": "Linq by Raghava",
+    "builder": "Raghava",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Kokapet/Neopolis market. Verify exact address, construction stage, configuration and amenity schedule.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "trilight-rise-with-9",
+    "name": "The Trilight Rise With 9",
+    "builder": "Trilight",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Neopolis precinct. Confirm current construction status, exact project naming and amenities against the latest developer materials.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "fortune-suraj-bhan-grande",
+    "name": "Sri Fortune Suraj Bhan Grande",
+    "builder": "Sri Sreenivasa Infra",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential high-rise project in the Neopolis/Kokapet market. Verify current phase, unit configurations and amenities with the developer.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped spaces",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sattva-lago",
+    "name": "Sattva Lago",
+    "builder": "Sattva Group",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Kokapet market. Confirm the current project phase, approved configurations and amenity schedule with the developer.",
+    "amenities": [
+      "Confirm clubhouse and recreation facilities",
+      "Confirm fitness and sports amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "navanaami-one",
+    "name": "Navanaami One",
+    "builder": "Navanaami",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for Kokapet. Confirm the exact official project page and latest construction status before relying on project details.",
+    "amenities": [
+      "Confirm community amenities",
+      "Confirm clubhouse and fitness facilities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ramky-one-odyssey",
+    "name": "Ramky One Odyssey",
+    "builder": "Ramky Estates",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential project listing for Kokapet. Confirm current construction stage, approved plans and amenity details with Ramky Estates.",
+    "amenities": [
+      "Confirm clubhouse and recreation",
+      "Confirm fitness and sports facilities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "godrej-madison-avenue-kokapet",
+    "name": "Godrej Madison Avenue",
+    "builder": "Godrej Properties",
+    "location": "Kokapet",
+    "kind": "Apartment",
+    "description": "Residential high-rise project in Kokapet. Check the latest builder brochure for configurations, construction status and included facilities.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaped open spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "levonor-egeira",
+    "name": "Levonor Egeira",
+    "builder": "Levonor",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Levonor's project page describes Egeira as a Kollur residential community with 744 lifestyle apartments across G+35 floors. Check current official project material for layouts, amenity details, construction updates and availability.",
+    "amenities": [
+      "744 apartments (developer-listed)",
+      "G+35-floor residential development (developer-listed)",
+      "Confirm clubhouse and community spaces from the current brochure",
+      "Confirm fitness, landscaped areas, parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "anvita-high-9",
+    "name": "Anvita High 9",
+    "builder": "Anvita",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "A gated residential community in Kollur. The developer lists 15 acres, nine towers, 30 floors, 2 and 3 BHK apartments plus 4 BHK cloud villas, a 1.6 km skywalk and a large clubhouse and sports complex. Confirm latest plans and status with the developer.",
+    "amenities": [
+      "Clubhouse and sports complex (developer-listed)",
+      "1.6 km skywalk connecting towers (developer-listed)",
+      "Terrace and stilt amenities (developer-listed)",
+      "Swimming pool, indoor games and landscaped areas shown in the gallery",
+      "Confirm latest approvals and specifications"
+    ],
+    "image": "",
+    "source": "https://anvitagroup.com/anvita-highnine.html",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vaishno-skyvue",
+    "name": "Vaishno Skyvue",
+    "builder": "Vaishno",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kollur. Confirm official developer details, construction stage, unit plans and amenities before publishing.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vian-mrida",
+    "name": "Vian Mrida",
+    "builder": "Vian",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kollur. Verify current construction stage and official specifications before presenting as available.",
+    "amenities": [
+      "Confirm community amenities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "ar-homes-altura",
+    "name": "AR Homes Altura",
+    "builder": "AR Homes",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kollur. Confirm project registration, current phase, configuration and amenity schedule with the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness amenities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "maharaja-kosmopolis",
+    "name": "Maharaja Kosmopolis",
+    "builder": "Maharaja",
+    "location": "Kollur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kollur. Verify the official project identity and current construction status before publishing detailed claims.",
+    "amenities": [
+      "Confirm official amenity schedule",
+      "Confirm fitness and recreation facilities",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "sr-the-nisarga",
+    "name": "SR The Nisarga",
+    "builder": "SRSM Group",
+    "location": "Kollur",
+    "kind": "Villa",
+    "description": "Villa township listing in Kollur. Confirm the current construction stage, villa configuration, approvals and amenities against the latest project brochure.",
+    "amenities": [
+      "Confirm villa layout and private outdoor areas",
+      "Confirm clubhouse and community facilities",
+      "Confirm home theatre or other listed features",
+      "Verify approvals and utilities"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "abinandana-vrinda-villas",
+    "name": "Abinandana Vrinda Villas",
+    "builder": "Abinandana",
+    "location": "Kollur",
+    "kind": "Villa",
+    "description": "Villa project listing in Kollur. Confirm current phase, villa plans, community features and construction status with the developer.",
+    "amenities": [
+      "Confirm villa plot and built-up area",
+      "Confirm community amenities",
+      "Confirm outdoor spaces and parking",
+      "Verify approvals and possession"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "cybercity-trevita",
+    "name": "Cybercity Trevita",
+    "builder": "Cybercity Builders",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Residential apartment project in Kondapur. Confirm current construction progress, approved plans and amenities using current project information.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped spaces",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "vrindavan-namishree",
+    "name": "Vrindavan by Namishree",
+    "builder": "Namishree",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Residential project listing in Kondapur. Verify the exact project address, developer specifications and construction stage.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "halo-raghava",
+    "name": "Halo by Raghava",
+    "builder": "Raghava",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Residential project listing for the Kondapur market. Confirm exact address, construction status and current amenity schedule with the developer.",
+    "amenities": [
+      "Confirm clubhouse and shared spaces",
+      "Confirm fitness and recreation facilities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "smr-vinay-iconia",
+    "name": "SMR Vinay Iconia",
+    "builder": "SMR Holdings",
+    "location": "Kondapur",
+    "kind": "Apartment",
+    "description": "Large residential community in the Kondapur area. Check current status and the latest project documents for available configurations and facilities.",
+    "amenities": [
+      "Clubhouse and community spaces (verify current scope)",
+      "Fitness and recreation facilities (verify)",
+      "Landscaped areas (verify)",
+      "Parking and security (verify)"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "casagrand-mandarin",
+    "name": "Casagrand Mandarin",
+    "builder": "Casagrand",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Casagrand Mandarin is listed by the developer as a residential community on the Miyapur–Bachupally Road, with 3 and 4 BHK apartments across a 7.96-acre site. Verify current availability, approved floor plans and amenity specifications before publishing.",
+    "amenities": [
+      "3 and 4 BHK apartment configurations (developer-listed)",
+      "7.96-acre site (developer-listed)",
+      "Project gallery and walkthrough available from the developer",
+      "Confirm clubhouse, fitness and recreation facilities from the latest brochure",
+      "Confirm current approvals and construction stage"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "anuhar-gautami-heights",
+    "name": "Anuhar Gautami Heights",
+    "builder": "Anuhar Homes",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential project listing in the Miyapur area. Confirm current phase, configuration and amenity details from the latest project information.",
+    "amenities": [
+      "Confirm community spaces",
+      "Confirm fitness and recreation",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "aspire-spaces-ameya",
+    "name": "Aspire Spaces Ameya",
+    "builder": "Aspire Spaces",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential project listing for Miyapur. Confirm current construction status and official project specifications before shortlisting.",
+    "amenities": [
+      "Confirm clubhouse and community facilities",
+      "Confirm fitness and recreation",
+      "Confirm landscaping",
+      "Confirm security and parking"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  },
+  {
+    "slug": "primark-inspira",
+    "name": "Primark Inspira",
+    "builder": "Primark",
+    "location": "Miyapur",
+    "kind": "Apartment",
+    "description": "Residential apartment project listing for Miyapur. Check the current developer brochure for construction progress, layouts and amenities.",
+    "amenities": [
+      "Confirm clubhouse and leisure facilities",
+      "Confirm fitness amenities",
+      "Confirm landscaped areas",
+      "Confirm parking and security"
+    ],
+    "image": "",
+    "source": "",
+    "status": "Under Construction"
+  }
+]
