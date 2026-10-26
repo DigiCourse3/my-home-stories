@@ -53,3 +53,12 @@
 @media(max-width:1150px){.header .brand{flex-basis:280px;width:280px;max-width:280px}.brand-logo-crop{height:58px}}
 @media(max-width:1050px){.header .brand{flex:0 1 290px;width:290px;max-width:290px}.brand-logo-crop{height:60px}}
 @media(max-width:650px){.header{gap:8px}.header .brand{flex:0 1 min(70vw,270px);width:min(70vw,270px);max-width:min(70vw,270px)}.brand-logo-crop{height:52px}.footer-logo-crop{height:90px}}
+
+
+/* Dedicated multi-page layouts */
+.page-intro{padding:72px 8% 58px;background:#f3f0e9;border-bottom:1px solid var(--line)}
+.page-intro .section-kicker{margin-bottom:12px}
+.page-intro h1{font-family:var(--serif);font-size:clamp(40px,5vw,68px);font-weight:500;line-height:1.1;letter-spacing:-.04em;margin:0 0 16px;color:var(--ink)}
+.page-intro p{max-width:720px;font-size:15px;line-height:1.9;color:var(--muted);margin:0}
+.page-intro+.section{padding-top:70px}
+@media(max-width:650px){.page-intro{padding:48px 6% 40px}.page-intro h1{font-size:42px}.page-intro p{font-size:13px}}
