@@ -1,4 +1,4 @@
-const projects=[
+let projects=[
 {slug:"raghava-iris",name:"IRIS by Raghava",builder:"Raghava",location:"Raidurgam",kind:"Apartment",status:"Verify with developer",description:"Residential project in the Raidurgam area. Check current official project material for floor plans, amenities, construction updates and availability.",image:"https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Firis_1000x7000_01.webp&w=1000&q=80",amenities:["Official project gallery reference","Confirm approved floor plans","Confirm current construction status","Verify complete cost sheet"]},
 {slug:"raghava-sage",name:"Raghava SAGE",builder:"Raghava",location:"Kollur",kind:"Apartment",status:"Verify with developer",description:"Residential project in Kollur. Review current developer material for layouts, amenities and construction status before shortlisting.",image:"https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fsage_1000x7000_01.webp&w=1000&q=80",amenities:["Official project gallery reference","Confirm current configuration","Verify amenities and facilities","Confirm approvals and status"]},
 {slug:"raghava-nova",name:"Raghava Nova",builder:"Raghava",location:"Financial District",kind:"Apartment",status:"Verify with developer",description:"Residential project in Hyderabad's Financial District. Check current project material for plans, amenities and construction status.",image:"https://raghava.world/_next/image?url=%2Fimages%2FProject%20images%2Fnova%2Fnova_web_1000x700_1.webp&w=1000&q=80",amenities:["Official project gallery reference","Confirm clubhouse and shared spaces","Confirm fitness facilities","Verify current project status"]},
@@ -32,6 +32,20 @@ if($("#projectGrid")){
   bind("#propertySearch","submit",e=>{e.preventDefault();$("#projectKind").value=$("#propertyType").value;$("#projectArea").value=$("#propertyLocation").value;renderProjects();$("#all-projects").scrollIntoView({behavior:"smooth"})});
   const params=new URLSearchParams(location.search);$("#projectKind").value=params.get("type")||document.body.dataset.pageKind||"all";if(params.get("location"))$("#projectArea").value=params.get("location");
   initProjects();
+  loadProjectCatalogue();
+}
+async function loadProjectCatalogue(){
+  try{
+    const batches=await Promise.all([
+      fetch("data/projects-01.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 1 unavailable");return r.json()}),
+      fetch("data/projects-02.json").then(r=>{if(!r.ok)throw new Error("Catalogue batch 2 unavailable");return r.json()})
+    ]);
+    const combined=[...batches.flat(),...projects];
+    const bySlug=new Map();
+    combined.forEach(p=>{const key=p.slug||p.name;if(key&&!bySlug.has(key))bySlug.set(key,p)});
+    projects=Array.from(bySlug.values()).map(p=>({...p,kind:/villa/i.test(p.kind||"")?"Villa":"Apartment"}));
+    initProjects();
+  }catch(error){console.warn("Using the built-in project list because the full catalogue could not be loaded.",error)}
 }
 bind("#modalClose","click",closeModal);bind("#projectModal","click",e=>{if(e.target===$("#projectModal"))closeModal()});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&$("#projectModal"))closeModal()});
