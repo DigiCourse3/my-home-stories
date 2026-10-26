@@ -41,3 +41,15 @@
  .header .brand{flex:0 1 min(72vw,270px);width:min(72vw,270px);max-width:min(72vw,270px)}
  .header .brand-logo{max-width:100%}
 }
+
+
+/* Use the exact uploaded logo artwork; clip only its excess vertical white canvas */
+.header .brand{display:flex;align-items:center;flex:0 1 340px;width:340px;max-width:340px;min-width:0;overflow:visible}
+.brand-logo-crop{display:block;position:relative;width:100%;height:68px;overflow:hidden;background:transparent;flex:0 1 auto}
+.brand-logo-crop .brand-logo{position:absolute;display:block;width:100%;max-width:none;height:auto;max-height:none;left:0;top:50%;transform:translateY(-50%);object-fit:contain;object-position:center;background:transparent}
+.footer .footer-brand{display:inline-flex;width:min(100%,370px);max-width:370px;background:#fff;padding:0;overflow:hidden;align-items:center}
+.footer-logo-crop{display:block;position:relative;width:100%;height:115px;overflow:hidden;background:#fff}
+.footer-logo-crop img{position:absolute;display:block;width:100%;height:auto;max-height:none;max-width:none;left:0;top:50%;transform:translateY(-50%);object-fit:contain;object-position:center;padding:0;background:#fff}
+@media(max-width:1150px){.header .brand{flex-basis:280px;width:280px;max-width:280px}.brand-logo-crop{height:58px}}
+@media(max-width:1050px){.header .brand{flex:0 1 290px;width:290px;max-width:290px}.brand-logo-crop{height:60px}}
+@media(max-width:650px){.header{gap:8px}.header .brand{flex:0 1 min(70vw,270px);width:min(70vw,270px);max-width:min(70vw,270px)}.brand-logo-crop{height:52px}.footer-logo-crop{height:90px}}
